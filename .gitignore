@@ -1,0 +1,5 @@
+# Never commit tunnel credentials or tokens
+.cloudflared/
+*.json
+cert.pem
+.env
